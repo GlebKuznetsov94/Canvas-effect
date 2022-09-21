@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+body {
+    background: white;
+}
+
+#c {
+    display: block;
+    margin: 70px auto 0;
+    color: black;
+}
+
+.credit{
+	font-size: 1rem;
+    margin: 80px;
+	color:rgb(0, 0, 0);
+	font-weight: normal;
+	display: block;
+	text-align: center;
+}
